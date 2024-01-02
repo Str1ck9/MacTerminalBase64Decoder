@@ -25,4 +25,5 @@ Replace `[filename]` with the path to your `.terminal` file.
 ## Example
 python3 decode.py Pro.terminal
 
-
+## TODO
+- Reverse the process and convert back to base64?
